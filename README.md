@@ -1,2 +1,2 @@
 # Data-Structures-Java
-Data Structures exercises in Java
+This repository is made for exercises about Data Structures with using Java
